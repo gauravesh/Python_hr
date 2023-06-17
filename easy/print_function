@@ -1,0 +1,5 @@
+n = int(input())
+a=1
+while a<n+1 :    
+    print(a,end='')
+    a=a+1
