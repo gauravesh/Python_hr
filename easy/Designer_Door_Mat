@@ -1,0 +1,27 @@
+a=7
+b=21
+
+list_row=[]
+fb=[]
+
+#this shall create the box
+
+for j in range(b):
+     list_row.append("-")
+
+ #    final = "".join(list_row)
+
+
+print(type(final))
+
+#divide the line based on row len example if len == 1 only 1 | shall be used
+
+for i in range(a):
+    fb.append(final)
+   # box = '\n'.join(fb)
+print(box)
+#divide the line based on row len example if len == 1 only 1 | shall be used
+
+for k in (a):
+
+print(sum)
