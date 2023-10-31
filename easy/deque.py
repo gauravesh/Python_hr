@@ -12,9 +12,10 @@ for i in range(input_int):
         asx.pop()
     elif isd == 'popleft':
         asx.popleft()
-    elif a,b=map(str,isd.split()):
+    else :
+        a,b=map(str,isd.split())
         b=int(b)
-        if a == 'append'
+        if a == 'append':
             asx.append(b)
         elif a == 'appendleft':
             asx.appendleft(b)
